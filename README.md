@@ -6,7 +6,7 @@
 ## Faking It (10 mins)
 * IFrames and included snippets
 * Staying in sync with site (or keeping old look unbroken)
-*Javascript library conflicts? (how many versions of Jquery do you want?)
+* Javascript library conflicts? (how many versions of Jquery do you want?)
 
 ## Infecting the CMS (10 mins)
 * Making embeddable content
